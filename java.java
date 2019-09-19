@@ -1,2 +1,6 @@
 System.out.println("Hellow MOto");
-dfasda
+String yourmom;
+yourmom="gay";
+if(yourmom==gay){
+    System.out.println("no u");
+}
